@@ -1,0 +1,8 @@
+model/Estoque.class
+model/MaterialDeConstrucao.class
+model/Produto.class
+model/Movimentacao$TipoMovimentacao.class
+Principal.class
+view/EntradaSaida.class
+model/Movimentacao.class
+controller/Controller.class

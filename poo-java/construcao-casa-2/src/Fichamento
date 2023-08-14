@@ -1,0 +1,97 @@
+Classe ArrayList
+
+● Definição (utilidade)
+
+"Resizable-array implementation of the List interface. Implements all optional list operations, and permits all elements, including null. In addition to implementing the List interface,
+ this class provides methods to manipulate the size of the array that is used internally to store the list. (This class is roughly equivalent to Vector, except that it is unsynchronized.)".(CLASS ArrayList, 2023)
+
+ArrayList é uma classe para coleções de qualquer tipo de dado.(COMO usar ArrayList em Java, 20--)
+
+
+● Como um ArrayList insere os dados (ordem)
+
+Insere os dados em ordem sequencial.(COMO usar ArrayList em Java, 20--)
+
+● Métodos:
+
+
+
+
+○ add(E e)
+
+"Appends the specified element to the end of this list."(CLASS ArrayList, 2023)
+
+Adiciona um item ao final da lista.(COMO usar ArrayList em Java, 20--)
+
+
+
+
+
+○ remove(int index)
+
+"Removes the element at the specified position in this list."(CLASS ArrayList, 2023)
+
+Remove o item na posição passada ao método.(Como usar ArrayList em Java, 20--)
+
+
+
+○ size()
+
+"Returns the number of elements in this list.".(CLASS ArrayList, 2023))
+
+Retorna o número de itens na lista.(Como usar ArrayList em Java, 20--)
+
+
+
+○ isEmpty()
+
+"Returns true if this list contains no elements.".(CLASS ArrayList, 2023)
+Verifica se a lista está vazia retornando true caso esteja.(Como usar ArrayList em java, 20--)
+
+
+
+○ contains(Object o)
+
+"Returns true if this list contains the specified element."(CLASS ArrayList, 2023)
+Retorna verdadeiro caso o objeto passado esteja na lista.(Como usar ArrayList em java, 20--)
+
+
+
+
+○ get(int index)
+
+"Returns the element at the specified position in this list."(CLASS ArrayList, 2023)
+Retorna o elemento na posição informada ao método.(Como usar ArrayList em java, 20--)
+
+
+○ set(int index, E element)
+
+"Replaces the element at the specified position in this list with the specified element."(CLASS ArrayList, 2023)
+Substitui o elemento na posição informada ao método, com o objeto informado ao mesmo(Como usar ArrayList em java, 20--)
+
+
+○ toArray()
+
+"Returns an array containing all of the elements in this list in proper sequence (from first to last element)."(CLASS ArrayList, 2023)
+Retorna um array contendo todos os elementos da lista na sequencia, do primeiro ao último.(COMO usar ArrayList em Java, 20--)
+
+
+
+● Explique com suas palavras a diferença de funcionamento do método add() e set()
+
+
+add(int, obj), set(int, obj)
+
+R: O método add() serve para adicionar a uma lista um item, ja o set faz o replace de um item existente.
+Também o método add() cria o próximo item do array por debaixo dos panos, ja o set precisa do index de um elemento
+ja existente na lista para fazer a substituição do mesmo. Quanto ao add(index, obj), este método pega o objeto que
+está no index informado, e o lança para a próxima posição(alterando a posição de todos os itens posteriores),
+deixando o item que voce passa na posição informada. Ja o set faz a substituição do elemento da posição i,
+pelo elemento que voce passar, não alterando os outros itens da lista
+
+
+Referencias:
+
+CLASS ArrayList. 2023. Disponível em: https://docs.oracle.com/en/java/javase/20/docs/api/java.base/java/util/ArrayList.html. Acesso em: 21 jun. 2023.
+
+COMO usar ArrayList em Java: principais métodos. 20--. Disponível em: https://www.feg.unesp.br/Home/PaginasPessoais/CristovaoCunha/TreinamentoSGCD/matelli/como-usar-arraylist-em-java.pdf. Acesso em: 21 jun. 2023.

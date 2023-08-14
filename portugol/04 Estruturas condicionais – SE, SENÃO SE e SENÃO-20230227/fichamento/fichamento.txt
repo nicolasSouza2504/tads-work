@@ -1,0 +1,28 @@
+
+Nome: Nicolas Vieira de Souza -- ADS-1
+
+Fichamento complementar
+
+
+1) Importância da interpretação do problema para a construção de um
+programa de computador que possui mais de um fluxo.
+
+R: A interpretação e alinhamento de idéias é essencial em um fluxo pois caso haja o entendimento incorreto sobre um ponto apenas, o retorno do programa será incorreto.
+
+
+2) Conceito de estruturas condicionais em um programa de computador.
+
+R: É um conceito essencial quando vamos desenvolver um programa em que haja mais de uma possibilidade, tanto de entrada, quanto de saida.
+
+3) Explique com suas palavras cada uma das expressões lógicas utilizadas em
+estruturas condicionais.
+
+R: SE -> Se a condição entre os parenteses for atendida, entrará no bloco de código;
+   SENAO -> Caso a condição de um SE não seja atendida, o programa entrará no bloco do senão
+   SENAO SE -> Caso a condição do primeiro SE não for cumprida, e a condição passada para o senão se for, ele executará o bloco de código
+   
+   
+4) Descreva ao menos dois exemplos de programas de computador conhecidos amplamente que utilizam estruturas condicionais em seu código fonte.
+
+R: Jogos em geral, Progras de emissão de documentos 
+

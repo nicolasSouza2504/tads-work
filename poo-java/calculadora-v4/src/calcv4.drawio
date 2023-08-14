@@ -1,0 +1,95 @@
+<mxfile host="app.diagrams.net" modified="2023-06-16T00:25:03.959Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="cvqOXZ8gmYssbQfdnO0j" version="21.4.0" type="device">
+  <diagram id="VXnTq7szIZNjyJ6zDWot" name="Página-1">
+    <mxGraphModel dx="2329" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="node5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;modelo.Divisao&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;- num1: double&lt;br/&gt;- num2: double&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+ getNum2(): double&lt;br/&gt;+ setNum1(double): void&lt;br/&gt;+ getNum1(): double&lt;br/&gt;+ setNum2(double): void&lt;br/&gt;+ calculaDivisao(): double&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-570" y="540" width="191" height="194" as="geometry" />
+        </mxCell>
+        <mxCell id="node0" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;visualizacao.EntradaSaida&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+ mostraResultado(double, int): void&lt;br/&gt;+ solicitarNumero(String): double&lt;br/&gt;+ solicitarOperacao(): int&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-275" y="111" width="322" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="node4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;modelo.Multiplicacao&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;- num1: double&lt;br/&gt;- num2: double&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+ getNum1(): double&lt;br/&gt;+ setNum2(double): void&lt;br/&gt;+ calculaMultiplicacao(): double&lt;br/&gt;+ getNum2(): double&lt;br/&gt;+ setNum1(double): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="226" y="530" width="228" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="node1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;controle.Principal&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;- calculaSoma(double, double): double&lt;br/&gt;- calculaDivisao(double, double): double&lt;br/&gt;- calculaSubtracao(double, double): double&lt;br/&gt;+ main(String[]): void&lt;br/&gt;- calculaMultiplicacao(double, double): double&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-275" y="333" width="322" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="node2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;modelo.Soma&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;- num1: double&lt;br/&gt;- num2: double&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+ getNum1(): double&lt;br/&gt;+ setNum2(double): void&lt;br/&gt;+ setNum1(double): void&lt;br/&gt;+ calculaSoma(): double&lt;br/&gt;+ getNum2(): double&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-31" y="541" width="188" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="node3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;modelo.Subtracao&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;- num1: double&lt;br/&gt;- num2: double&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+ setNum2(double): void&lt;br/&gt;+ getNum1(): double&lt;br/&gt;+ calculaSubtracao(): double&lt;br/&gt;+ setNum1(double): void&lt;br/&gt;+ getNum2(): double&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-310" y="541" width="210" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="0V_0lSmHy-nU_MDSUaUE-4" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-290" y="440" as="sourcePoint" />
+            <mxPoint x="-480" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-480" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0V_0lSmHy-nU_MDSUaUE-5" value="use" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="0V_0lSmHy-nU_MDSUaUE-4" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0V_0lSmHy-nU_MDSUaUE-7" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="329" as="sourcePoint" />
+            <mxPoint x="-120" y="269" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0V_0lSmHy-nU_MDSUaUE-8" value="use" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="0V_0lSmHy-nU_MDSUaUE-7" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0V_0lSmHy-nU_MDSUaUE-11" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-170" y="490" as="sourcePoint" />
+            <mxPoint x="-170" y="530" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0V_0lSmHy-nU_MDSUaUE-12" value="use" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="0V_0lSmHy-nU_MDSUaUE-11" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0V_0lSmHy-nU_MDSUaUE-13" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="485" as="sourcePoint" />
+            <mxPoint x="10" y="535" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="10" y="515" />
+              <mxPoint x="10" y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0V_0lSmHy-nU_MDSUaUE-14" value="use" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="0V_0lSmHy-nU_MDSUaUE-13" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0V_0lSmHy-nU_MDSUaUE-15" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="430" as="sourcePoint" />
+            <mxPoint x="360" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0V_0lSmHy-nU_MDSUaUE-16" value="use" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="0V_0lSmHy-nU_MDSUaUE-15" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

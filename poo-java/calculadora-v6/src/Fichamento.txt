@@ -1,0 +1,31 @@
+Nome: Nicolas Vieira de Souza
+
+Herança em programação orientada a objetos:
+
+Definição: Herança é a capacidade das classes de terem acesso a atributos e métodos de outras que elas herdam.(ENTENDENDO e Aplicando Herança em Java, 2022)
+
+Utilidade: É muito útil para evitar a repetição de código, e padronizar o uso de classes / metodos, oque ajuda muito na legibilidade e manutenção do código.(ENTENDENDO e Aplicando Herança em Java, 2022)
+
+Vantagens: Padronização de código, legibilidade e não repetição.(ENTENDENDO e Aplicando Herança em Java, 2022)
+Desvantagens: Enfraquece o encapsulamento pois mudar uma superclasse pode afetar todas as subclasses,
+e da brechas para o programador errar, caso o mesmo mecha em uma classe que contenha a regra de várias outras.(ENTENDENDO e Aplicando Herança em Java, 2022)
+
+
+O que são classes abstratas: Classes que não podem ser instanciadas e levam apenas os métodos e os atributos que são uteis para as classes que extenderem a  mesma.(ENTENDENDO e Aplicando Herança em Java, 2022)
+
+● Polimorfismo:
+Definição: É um conceito de java que permite que uma classe, possa ser outra por assim dizer, oq nos permite criar metodos que recebam uma classe,
+que na verdade pode ser 10, desde que elas estejam extendendo a classe do metodo. As classes abstratas podem implementar Interfaces e
+passar a responsabilidade de implementação dos métodos para suas classes filhas.(ENCAPSULAMENTO, Polimorfismo, Herança em Java, 2022)
+
+● Encapsulamento:
+Definição: O encapsulamento é um conceito que visa esconder os atributos de uma classe, ou seja,
+encapsular o acesso aos atributos somente aos metodos desta classe. Não só de atributos, como o conceito amplo,
+se trata de implementações de lógicas também, encapsular significa dar a esta classe específica a responsabilidade por sua lógica e implementação(ENCAPSULAMENTO, Polimorfismo, Herança em Java, 2022)
+
+
+
+Referencias:
+
+ENTENDENDO e Aplicando Herança em Java: Veja nesse artigo um dos conceitos mais utilizados no paradigma de orientação a objetos: a herança. Entenda o processo de generalização e aplique a herança em Java com tudo que a linguagem oferece.. Veja nesse artigo um dos conceitos mais utilizados no paradigma de orientação a objetos: a herança. Entenda o processo de generalização e aplique a herança em Java com tudo que a linguagem oferece.. 2022. Disponível em: https://www.devmedia.com.br/entendendo-e-aplicando-heranca-em-java/24544. Acesso em: 19 jun. 2022.
+ENCAPSULAMENTO, Polimorfismo, Herança em Java: Veja neste artigo como funciona o Encapsulamento, Polimorfismo e Herança em Java de uma maneira clara, simples e fácil de entender.. Veja neste artigo como funciona o Encapsulamento, Polimorfismo e Herança em Java de uma maneira clara, simples e fácil de entender.. 2022. Disponível em: https://www.devmedia.com.br/encapsulamento-polimorfismo-heranca-em-java/12991#:~:text=O%20Encapsulamento%20serve%20para%20controlar,sentido%20para%20um%20membro%20particular.. Acesso em: 19 jun. 2022.

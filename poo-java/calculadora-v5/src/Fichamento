@@ -1,0 +1,24 @@
+Aluno: Nicolas Vieira de Souza - ADS 1
+
+
+● Classes do tipo Interface
+
+Definição:
+
+Uma classe abstrata em que todos os metodos são abstratos.(ENTENDENDO interfaces em Java, 2022)
+
+
+Utilidade:
+
+Servem para definir contratos de implementação entre as classes.
+Outra utilização é criar metodos que retornam a interface, estes metodos podem retornar qualquer classe que implemente aquela interface.
+Da mesma maneira, metodos que recebem a interface, podem receber qualquer classe que implemente a interface.(ENTENDENDO interfaces em Java, 2022)
+
+O que são métodos abstratos:
+
+São métodos que não tem uma implementação, ou seja não são execultados, eles passam essa responsabilidade para as classes que os implementarem.(ENTENDENDO interfaces em Java, 2022)
+
+Referência:
+
+ENTENDENDO interfaces em Java: Veja neste artigo como funcionam e como utilizar interfaces, um recurso das linguagens orientadas a objetos que permite definir um padrão a ser seguido por classes de um determinado contexto.. Veja neste artigo como funcionam e como utilizar interfaces, um recurso das linguagens orientadas a objetos que permite definir um padrão a ser seguido por classes de um determinado contexto.. 2022. Disponível em: https://www.devmedia.com.br/entendendo-interfaces-em-java/25502. Acesso em: 19 jun. 2023.
+

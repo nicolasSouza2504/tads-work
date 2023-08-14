@@ -1,0 +1,37 @@
+
+● Padrões de projeto
+
+Definição: São fórmulas / maneiras de implementação das funcionalidades de ja presentes no java.(PADRÕES de Projeto em Java, 2021)
+
+Vantagens: Organização do código, manutenção, e legibilidade.(PADRÕES de Projeto em Java, 2021)
+
+Exemplos de padrões de projeto: MVC, Abstract Factoring, Factory methods etc.(PADRÕES de Projeto em Java, 2021)
+
+
+● Padrão MVC
+
+Definição: Padrão de projeto que visa separar as classes por suas responsabilidades.(INTRODUÇÃO ao padrão MVC, 2023)
+
+
+Características de cada uma das camadas:
+
+Model: classes que contém a regra de negócio, e models do banco de dados.(INTRODUÇÃO ao padrão MVC, 2023)
+View: Exibição / recebimento de dados.(INTRODUÇÃO ao padrão MVC, 2023)
+Controller: classes que execultam a lógica da aplicação.(INTRODUÇÃO ao padrão MVC, 2023)
+
+● Pacotes em Java
+
+Definição: É um conjunto de classes localizado nos mesma estrutura de diretórios.(OMERO, 2013)
+
+Utilidade: Agrupar as classes por suas responsabilidades
+
+○ Nomenclatura (convenção): O padrão de nomenclatura de classes é camel case.(OMERO, 2013)
+
+
+Referencias:
+
+* https://www.devmedia.com.br/guia/padroes-de-projeto-em-java/34456
+* https://www.devmedia.com.br/compreendendo-o-uso-de-pacotes-ou-packages/27478#:~:text=Um%20pacote%20ou%20package%20na,mesma%20estrutura%20hier%C3%A1rquica%20de%20diret%C3%B3rios.
+Referência: PADRÕES de Projeto em Java: Neste guia de consulta você encontrará diversos conteúdos sobre padrões de projeto e arquitetura e como aplicá-los em suas aplicações Java, tais como os padrões GoF e Refactoring. Neste guia de consulta você encontrará diversos conteúdos sobre padrões de projeto e arquitetura e como aplicá-los em suas aplicações Java, tais como os padrões GoF e Refactoring. 2021. Disponível em: https://www.devmedia.com.br/guia/padroes-de-projeto-em-java/34456. Acesso em: 19 jun. 2023.
+Referencia: INTRODUÇÃO ao padrão MVC: Veja neste artigo o estilo de arquitetura MVC (Model-View-Controller), bastante importante e muito utilizada em diversos frameworks e projetos de software... Veja neste artigo o estilo de arquitetura MVC (Model-View-Controller), bastante importante e muito utilizada em diversos frameworks e projetos de software.. 2023. Disponível em: https://www.devmedia.com.br/introducao-ao-padrao-mvc/29308#MVC. Acesso em: 19 jun. 2023
+Referencia: OMERO. Compreendendo o uso de pacotes, ou packages: este artigo trata da construção de projetos java, da organização de um conjunto de classes relacionadas em pacotes, das regras para denominação de pacotes, da distribuição de aplicações java através de arquivos jar.. Este artigo trata da construção de projetos Java, da organização de um conjunto de classes relacionadas em pacotes, das regras para denominação de pacotes, da distribuição de aplicações Java através de arquivos JAR.. 2013. Disponível em: https://www.devmedia.com.br/compreendendo-o-uso-de-pacotes-ou-packages/27478. Acesso em: 20 jun. 2023.

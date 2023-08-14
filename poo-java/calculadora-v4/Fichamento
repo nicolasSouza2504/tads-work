@@ -1,0 +1,15 @@
+Aluno: Nicolas Vieira de Souza - ADS 1
+
+
+
+
+● Métodos getters() e setters()
+
+Definição de cada um deles: O método get é utilizado para obter os valores do atributo de uma classe. O método set é utilizado para setar valor ao atributo de uma classe.(CRIANDO métodos get e set em Java, 2022)
+
+Em que contexto esses métodos devem existir? Por que devem ser criados?
+R: Em uma classe com atributos privados para seguir as boas práticas de java e para os métodos não serem acessados diretamente por outras classes que não sejam ela mesma.(CRIANDO métodos get e set em Java, 2022)
+
+Referências:
+
+CRIANDO métodos get e set em Java: Veja neste artigo como criar métodos get e set em Java, em uma maneira prática e segura de trabalhar com os atributos de uma determinada classe. Aprendendo a diferença dos métodos.. Veja neste artigo como criar métodos get e set em Java, em uma maneira prática e segura de trabalhar com os atributos de uma determinada classe. Aprendendo a diferença dos métodos.. 2022. Disponível em: https://www.devmedia.com.br/criando-metodos-get-e-set-em-java/24623. Acesso em: 19 jun. 2023.

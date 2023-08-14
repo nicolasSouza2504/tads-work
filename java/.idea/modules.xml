@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio-final/desafio-final.iml" filepath="$PROJECT_DIR$/desafio-final/desafio-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/do-while/do-while.iml" filepath="$PROJECT_DIR$/do-while/do-while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/for/for.iml" filepath="$PROJECT_DIR$/for/for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/if-else-desafios/if-else-desafios.iml" filepath="$PROJECT_DIR$/if-else-desafios/if-else-desafios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matriz/matriz.iml" filepath="$PROJECT_DIR$/matriz/matriz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodos/metodos.iml" filepath="$PROJECT_DIR$/metodos/metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo-introducao/poo-introducao.iml" filepath="$PROJECT_DIR$/poo-introducao/poo-introducao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scan-print-desafios/scan-print-desafios.iml" filepath="$PROJECT_DIR$/scan-print-desafios/scan-print-desafios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switch/switch.iml" filepath="$PROJECT_DIR$/switch/switch.iml" />
+    </modules>
+  </component>
+</project>

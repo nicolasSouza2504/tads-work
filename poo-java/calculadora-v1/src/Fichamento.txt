@@ -1,0 +1,72 @@
+Aluno: Nicolas Vieira de Souza - ADS 1
+
+
+
+● Definição do Paradigma de Orientação a Objetos:
+
+É um maneira de criar software moldando seu pensamento e lógica para a utilização de objetos, metodos, atributos. ;
+
+"É um modelo de projeto e programação baseado na aproximação entre o mundo real e o mundo virtual,
+através da criação e interação entre objetos, atributos, códigos, métodos, entre outros."(NOLETO, 2021)
+
+
+
+
+
+
+
+
+
+
+● Comparações com o paradigma estruturado (link: sugestão de fonte,
+somente para esse tópico)
+
+"Na Programação estruturada observamos algumas vantagens como um controle mais eficaz quanto ao fluxo de execução
+do programa e a facilidade de compreender o código quando o mesmo é analisado. Como principal desvantagem temos a facilidade
+em desenvolver um código confuso caso o desenvolvedor faça o tratamento dos dados juntamente com o restante da execução do
+programa, além do que o reuso de código se torna um pouco complicado devido a não definição da tarefa. Já na programação orientada
+a objetos temos como vantagens a reutilização de código e a melhor organização do código do programa. Porém, alguns detalhes tornam essa
+programação um pouco prejudicada quando comparada a programação estruturada como, por exemplo, o desempenho do código e a confusão
+na hora de aplicar os conceitos de orientação a objetos."(IGOR, 2015)
+
+
+● Definição de:
+
+Classe: Classe é um modelo de objeto.(OBJETOS e Classes. 2015)
+
+Atributo: Atributo é uma propriedade da classe ou objeto.(OBJETOS e Classes. 2015)
+
+Método: São as funções de uma classe ou objeto.(OBJETOS e Classes. 2015)
+
+Objeto: É a instancia/Representação de uma classe.(OBJETOS e Classes. 2015)
+
+O que significa instância de um objeto: É a referencia desse objeto em memória naquele contexto.(OBJETOS e Classes. 2015)
+
+
+
+
+
+Modificadores de acesso:
+
+MODIFICADORES de Acesso em Java: Neste artigo veremos como funcionam os modificadores de acesso em Java. Será mostrado como utilizar os modificadores para controlar o acesso a classes e seus membros.. Neste artigo veremos como funcionam os modificadores de acesso em Java. Será mostrado como utilizar os modificadores para controlar o acesso a classes e seus membros.. 2022. Disponível em: https://www.devmedia.com.br/modificadores-de-acesso-em-java/18822#:~:text=Os%20modificadores%20de%20acesso%20s%C3%A3o,vis%C3%ADvel%20n%C3%A3o%20pode%20ser%20acessado.. Acesso em: 19 jun. 2023.
+
+■ public
+Atributos ou métodos que podem ser acessados de todos os lugares pela instancia da classe que os possui. (MODIFICADORES de Acesso em Java: Neste artigo veremos como funcionam os modificadores de acesso em Java., 2023)
+
+■ private
+
+Atributos ou metodos que só podem ser acessados pela classe que os possui.(MODIFICADORES de Acesso em Java: Neste artigo veremos como funcionam os modificadores de acesso em Java., 2023)
+
+■ protected
+Atributos ou metodos que só podem ser acessados pelas classes filhas da classe que os possui.(MODIFICADORES de Acesso em Java: Neste artigo veremos como funcionam os modificadores de acesso em Java., 2023)
+
+
+Referencias:
+
+https://www.devmedia.com.br/introducao-a-programacao-orientada-a-objetos-em-java/26452
+https://blog.betrybe.com/tecnologia/poo-programacao-orientada-a-objetos/
+
+NOLETO, Cairo. POO: tudo sobre orientação a objetos. 28/03/2021. Disponível em: https://blog.betrybe.com/tecnologia/poo-programacao-orientada-a-objetos/. Acesso em: 20 jun. 2023.
+IGOR. Programação Orientada a Objetos e Programação Estruturada. 2015. Disponível em: https://www.devmedia.com.br/programacao-orientada-a-objetos-e-programacao-estruturada/32813. Acesso em: 20 jun. 2023.
+OBJETOS e Classes. 2015. Disponível em: https://www.dca.fee.unicamp.br/cursos/POOCPP/node10.html#:~:text=Uma%20classe%20de%20objetos%20descreve,Companhia%20s%C3%A3o%20classes%20de%20objetos.. Acesso em: 19 jun. 2023.
+MODIFICADORES de Acesso em Java: Neste artigo veremos como funcionam os modificadores de acesso em Java. Será mostrado como utilizar os modificadores para controlar o acesso a classes e seus membros.. Neste artigo veremos como funcionam os modificadores de acesso em Java. Será mostrado como utilizar os modificadores para controlar o acesso a classes e seus membros.. 2022. Disponível em: https://www.devmedia.com.br/modificadores-de-acesso-em-java/18822#:~:text=Os%20modificadores%20de%20acesso%20s%C3%A3o,vis%C3%ADvel%20n%C3%A3o%20pode%20ser%20acessado.. Acesso em: 19 jun. 2023.

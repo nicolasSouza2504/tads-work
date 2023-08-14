@@ -1,0 +1,35 @@
+Aluno: Nicolas Vieira de Souza - ADS 1
+
+
+
+Construtor -> O construtor em uma classe, serve para nós definirmos ações que serão execultadas no momento de instanciação da classe,
+podendo receber atributor ou não. O Construtor default das classes é um metodo sem atributos e vazio. Uma classe pode ter vários construtores.(CONSTRUTORES em Java: Primeiros Passos,2015)
+
+
+
+a) O objeto oper é um atributo da classe controle.Principal? Por quê?
+R: Sim, porque o objeto oper é declarado dentro da classe fora do escopo de um método;
+
+b) Qual o tipo de retorno do método solicitaNumero()? Por quê?
+R: Um double, porque o metodo retorna double;
+
+
+c) O método solicitaNumero() foi declarado como estático ou dinâmico? Por quê?
+R: Como estático porque não precisamos instaciar a classe visualizacao.EntradaSaida para acessalo;
+
+
+d) O método solicitaNumero() necessita receber parâmetros? De que tipo? Por quê?
+R: Sim, ele necessita um parametro  string, para exibir a ordem do número que ele solicitará;
+
+e) O método mostraResultado() possui retorno? Por quê?
+R: Não, porque ele apenas exibe o resultado;
+
+f) O método parseInt() pertence a qual classe e recebe parâmetros dequal tipo?
+R: Pertence a classe Integer e recebe um parametro String ou varchar;
+
+REFERENCIAS:
+
+https://www.devmedia.com.br/construtores-em-java-primeiros-passos/28618
+
+https://www.devmedia.com.br/métodos-em-java-primeiros-passos/25617
+CONSTRUTORES em Java: Primeiros Passos. 2015. Disponível em: https://www.devmedia.com.br/construtores-em-java-primeiros-passos/28618. Acesso em: 19 jun. 2023.

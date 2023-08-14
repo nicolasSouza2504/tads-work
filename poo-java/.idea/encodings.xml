@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/conta-bancaria/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/conta-bancaria/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fabrica-de-carros/fabrica-de-carro/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fabrica-de-carros/fabrica-de-carro/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fabrica-de-carros/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fabrica-de-carros/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

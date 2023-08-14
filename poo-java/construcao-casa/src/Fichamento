@@ -1,0 +1,43 @@
+Aluno: Nicolas Vieira de Souza - ADS 1
+
+Classe JComboBox
+
+Definição (utilidade):
+
+"A component that combines a button or editable field and a drop-down list.
+The user can select a value from the drop-down list, which appears at the user's request.
+If you make the combo box editable, then the combo box includes an editable field into which the user can type a value."(CLASS JComboBox, 2023)
+
+Permitir o usuário um select com mútiplas opções. (RONALDO, 2014)
+
+
+
+Método construtor JComboBox(E[] items):
+
+"Creates a JComboBox that contains the elements in the specified array."(CLASS JComboBox, 2023)
+
+Cria um combo box com os itens passados no array. (RONALDO, 2014)
+
+
+
+
+Método getSelectedIndex():
+
+"Returns the first item in the list that matches the given item. The result is not always defined if the JComboBox allows selected items that are not in the list. Returns -1 if there is no selected item or if the user specified an item which is not in the list." (CLASS JComboBox, 2023)
+
+Este método retorna o index do item selecionado. (RONALDO, 2014)
+
+
+
+Método getSelectedItem():
+
+"Returns the current selected item."(CLASS JComboBox, 2023)
+
+Este método retorna o item selecionado da lista. (RONALDO, 2014)
+
+
+Referências:
+
+CLASS JComboBox. 2023. Disponível em: https://docs.oracle.com/en/java/javase/20/docs/api/java.desktop/javax/swing/JComboBox.html. Acesso em: 20 jun. 2023.
+
+RONALDO. Carregamento Condicional com JComboBox: veja neste artigo como carregar condicionalmente os itens de um jcombobox.. Veja neste artigo como carregar condicionalmente os itens de um JComboBox.. 2015. Disponível em: https://www.devmedia.com.br/carregamento-condicional-com-jcombobox/32836. Acesso em: 20 jun. 2023.

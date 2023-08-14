@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/calculadora-v1/calculadora-v1.iml" filepath="$PROJECT_DIR$/calculadora-v1/calculadora-v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadora-v2/calculadora-v2.iml" filepath="$PROJECT_DIR$/calculadora-v2/calculadora-v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadora-v3/calculadora-v3.iml" filepath="$PROJECT_DIR$/calculadora-v3/calculadora-v3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadora-v4/calculadora-v4.iml" filepath="$PROJECT_DIR$/calculadora-v4/calculadora-v4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadora-v5/calculadora-v5.iml" filepath="$PROJECT_DIR$/calculadora-v5/calculadora-v5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadora-v6/calculadora-v6.iml" filepath="$PROJECT_DIR$/calculadora-v6/calculadora-v6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadora-v7/calculadora-v7.iml" filepath="$PROJECT_DIR$/calculadora-v7/calculadora-v7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/construcao-casa/construcao-casa.iml" filepath="$PROJECT_DIR$/construcao-casa/construcao-casa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/construcao-casa-2/construcao-casa-2.iml" filepath="$PROJECT_DIR$/construcao-casa-2/construcao-casa-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/construcao-casa-3/construcao-casa-3.iml" filepath="$PROJECT_DIR$/construcao-casa-3/construcao-casa-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/construção-casa-4/construção-casa-4.iml" filepath="$PROJECT_DIR$/construção-casa-4/construção-casa-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/poo-java.iml" filepath="$PROJECT_DIR$/.idea/poo-java.iml" />
+    </modules>
+  </component>
+</project>

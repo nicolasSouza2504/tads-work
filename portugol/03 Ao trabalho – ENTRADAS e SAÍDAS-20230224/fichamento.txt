@@ -1,0 +1,43 @@
+Nicolas Vieira de Souza ADS -- 1 ano
+
+Fichamento trilha ADS 1
+
+1) Oque é um programa de computador sequencial: 
+
+R: É um programa que é executado de maneira sequencial, recebendo informações, processando as mesmas, e retornando ao seu usuário o resultado esperado;
+
+2) Conceito de Entrada e Saída de um programa de computador.
+
+R: O conceito de entrada e saída é o que contempla o recebimento de dados por um programa, retornando após as devidas tratativas, os dados desejados para o usuário;
+
+3) Importância da interpretação dos requisitos para a construção de um
+programa de computador.
+
+R: A interpretação no momento da construção de um programa de computador, é a mais importante, pois após iniciado um processo, com um entendimento errado, ou má interpretação, torna-se muito difícil retornar ao início e montar novamente toda a estrutura de projeto, por isso, antes de tudo, o alinhamento entre as partes(solicitante/implementador) é essencial para a entrega de um projeto;
+
+
+4) Descreva ao menos dois exemplos de programas de computador conhecidos
+amplamente que utilizam o conceito de Entradas e Saídas em sua estrutura.
+
+R: Programas de Cálculo de IMC
+   Programas de Cálculo de Idade
+   
+   
+FONTES: 
+
+https://gabrielbueno072.github.io/rea-aed/aula_seq.html
+
+------------------------
+
+https://www.dca.fee.unicamp.br/cursos/PooJava/io/index.html#:~:text=Por%20entrada%20e%20sa%C3%ADda%20subentende,pelo%20processador%20e%20mem%C3%B3ria%20principal.
+
+------------------------
+
+https://sites.google.com/site/introducaoti/fundamentos-para-sistemas-de-informacao/unidade-1-conceitos-fundamentais-de-sistemas-de-informacao
+
+
+
+
+
+
+
